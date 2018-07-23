@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=StartPanel
+comment1.params=
+comment1.target=StartPanel()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ AboutPanel\n
+comment2.params=
+comment2.target=javax.swing.JPanel\ makeNorthPanel()
+comment2.text=\n\ Panel\ that\ shows\ the\ title\ message\n\ Top\ most\ panel\ in\ the\ GUI\n
+comment3.params=
+comment3.target=javax.swing.JPanel\ makeMiddlePanel()
+comment3.text=\n\ Panel\ that\ shows\ the\ about\ information\n\ In\ the\ center\ of\ the\ GUI\n
+comment4.params=
+comment4.target=javax.swing.JPanel\ makeButtonPanel()
+comment4.text=\n\ Panel\ that\ shows\ the\ Start\ button\n\ bottom\ most\ panel\ in\ the\ GUI\n
+comment5.params=
+comment5.target=javax.swing.JPanel\ combineAllPanels()
+comment5.text=\n\ Panel\ that\ combines\ the\ top,\ middle,\ and\ bottom\ panels\ into\ one\n
+numComments=6

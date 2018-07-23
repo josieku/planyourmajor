@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Electives
+comment1.params=
+comment1.target=Electives()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Electives\n
+comment2.params=
+comment2.target=void\ CSCourses()
+comment2.text=\n\ Hard\ codes\ in\ each\ CS\ elective\ into\ the\ Hashtable\n
+comment3.params=
+comment3.target=void\ PHYSCourses()
+comment3.text=\n\ Hard\ codes\ in\ each\ Physics\ elective\ into\ the\ Hashtable\n
+numComments=4

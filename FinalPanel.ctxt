@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=FinalPanel
+comment1.params=finalgraph
+comment1.target=FinalPanel(Major)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ FinalPanel\n
+comment2.params=
+comment2.target=javax.swing.JPanel\ makeTitle()
+comment2.text=\n\ Panel\ that\ shows\ the\ title\ message\n\ Top\ most\ panel\ in\ the\ GUI\n
+comment3.params=
+comment3.target=javax.swing.JPanel\ makeLegend()
+comment3.text=\n\ Panel\ that\ shows\ the\ legend\ \n\ Second\ top\ most\ panel\ in\ the\ GUI\n
+comment4.params=
+comment4.target=javax.swing.JPanel\ makeGraphPanel()
+comment4.text=\n\ Panel\ that\ shows\ the\ graph\ of\ courses\ in\ the\ major\ selected\ by\ the\ user\n
+comment5.params=
+comment5.target=javax.swing.JPanel\ combineAllPanels()
+comment5.text=\n\ Panel\ that\ combines\ all\ of\ the\ panels\ into\ one\n
+comment6.params=
+comment6.target=javax.swing.JPanel\ makeButtonPanel()
+numComments=7

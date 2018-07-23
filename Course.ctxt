@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Course
+comment1.params=course
+comment1.target=Course(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Course\n
+comment2.params=course\ prereq
+comment2.target=Course(java.lang.String,\ java.lang.String)
+comment2.text=\n\ Second\ Constructor\ for\ objects\ of\ class\ Course\n\ includes\ parameter\ for\ prereq\ if\ course\ has\ a\ prereq\n
+comment3.params=
+comment3.target=java.lang.String\ getFullCourse()
+comment3.text=\n\ getters\ for\ Course\ object\ information\n
+comment4.params=
+comment4.target=java.util.LinkedList\ getPrereq()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\n\ Testing\ for\ Course\ class\n
+numComments=7

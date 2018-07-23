@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ChooseMajorPanel
+comment1.params=
+comment1.target=ChooseMajorPanel()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ AboutPanel\n
+comment2.params=
+comment2.target=javax.swing.JPanel\ makeNorthPanel()
+comment2.text=\n\ Panel\ that\ shows\ the\ title\ message\n\ Top\ most\ panel\ in\ the\ GUI\n
+comment3.params=
+comment3.target=javax.swing.JPanel\ makeCBPanel()
+comment3.text=\n\ Panel\ that\ shows\ the\ combo\ box\n
+comment4.params=
+comment4.target=javax.swing.JPanel\ makeButtonsPanel()
+comment4.text=\n\ Panel\ that\ shows\ the\ Next\ button\n\ bottom\ most\ panel\ in\ the\ GUI\n
+comment5.params=
+comment5.target=javax.swing.JPanel\ combineAllPanels()
+comment5.text=\n\ Panel\ that\ combines\ all\ of\ the\ panels\ into\ one\n
+numComments=6

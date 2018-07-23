@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CoreCourses
+comment1.params=
+comment1.target=CoreCourses()
+comment1.text=\n\ Constructor\ for\ the\ CoreCourses\ class\n\ Instansiates\ the\ core\ courses\ in\ individual\ Major\ graphs\ and\ puts\ in\ a\ Hashtable\n
+comment2.params=
+comment2.target=com.mxgraph.view.mxGraph\ CS()
+comment2.text=\n\ Creates\ the\ graph\ of\ CS\ core\ courses\n
+comment3.params=
+comment3.target=com.mxgraph.view.mxGraph\ PHYS()
+comment3.text=\n\ Creates\ the\ graph\ of\ Physics\ core\ courses\n
+comment4.params=g\ courseList
+comment4.target=void\ addToGraph(com.mxgraph.view.mxGraph,\ java.util.LinkedList)
+comment4.text=\n\ Takes\ the\ core\ courses\ as\ a\ LinkedList\ of\ Course\ objects\ and\ adds\ it\ to\ the\ graph.\n\ There\ are\ print\ statements\ to\ show\ testing\ during\ the\ process.\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\n\ Testing\ in\ a\ new\ JFrame\ for\ graph\ display.\n
+numComments=6

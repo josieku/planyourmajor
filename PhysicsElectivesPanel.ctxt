@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PhysicsElectivesPanel
+comment1.params=
+comment1.target=PhysicsElectivesPanel()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PhysicsElectivesPanel\n
+comment2.params=
+comment2.target=javax.swing.JPanel\ makeTitle()
+comment2.text=\n\ Panel\ that\ shows\ the\ title\ message\n\ Top\ most\ panel\ in\ the\ GUI\n
+comment3.params=
+comment3.target=javax.swing.JPanel\ makeCheckBoxPanel()
+comment3.text=\n\ Panel\ that\ shows\ the\ check\ boxes\n\ Center\ panel\ of\ the\ GUI\n\ Hard\ coded\ in\ all\ of\ the\ information\ for\ each\ elective\ course\n
+comment4.params=
+comment4.target=javax.swing.JPanel\ makeButtonsPanel()
+comment4.text=\n\ Panel\ that\ shows\ the\ Next\ Button\n
+comment5.params=
+comment5.target=javax.swing.JPanel\ combineAllPanels()
+comment5.text=\n\ Panel\ that\ combines\ all\ of\ the\ panels\ into\ one\n
+numComments=6
